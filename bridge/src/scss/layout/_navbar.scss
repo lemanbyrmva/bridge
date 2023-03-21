@@ -1,0 +1,27 @@
+nav{
+   margin-top: 34px;
+   .nav_logo{
+
+   }
+   ul{
+      text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 86px;
+      li{
+         list-style: none;
+         font-size: 12px;
+         color: rgba(50,46,67,.6);
+         font-weight: 600;
+         text-transform: uppercase;
+         font-family: url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@300&display=swap');
+      }
+   }
+   @media (max-width:768px) {
+      ul{
+         display: none;
+         
+      }
+   }
+}

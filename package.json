@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "node-sass": "^8.0.0",
+    "sass": "^1.59.3"
+  },
+  "name": "bridge",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemanbyrmva/bridge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemanbyrmva/bridge/issues"
+  },
+  "homepage": "https://github.com/lemanbyrmva/bridge#readme"
+}
